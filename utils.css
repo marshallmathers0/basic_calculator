@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 300px;
+  border: none;
+  background-color: #5c5c5c;
+  cursor: pointer;
+  font-size: 40px;
+  color: white;
+}
+
+.input {
+  padding: 20px 150px;
+  width: 450px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  border: 3px solid black;
+  margin: 20px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+#equalsto {
+  width: 215px;
+}
+
+#allclear {
+  width: 215px;
+}
